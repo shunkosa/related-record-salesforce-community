@@ -1,0 +1,10 @@
+{
+  "orgName": "Demo Company",
+  "edition": "Enterprise",
+  "features": ["Community"],
+  "settings": {
+    "orgPreferenceSettings": {
+      "s1DesktopEnabled": true
+    }
+  }
+}
